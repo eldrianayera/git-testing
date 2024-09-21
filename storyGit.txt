@@ -1,3 +1,7 @@
 This is master 
 
+<<<<<<< HEAD
 Added this from local
+=======
+Added from remote
+>>>>>>> 6ae30126627c442773791c0e7a6197221330bbf2
